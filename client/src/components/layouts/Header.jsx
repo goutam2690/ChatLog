@@ -162,7 +162,6 @@ const Header = () => {
                             display: { xs: "block", sm: "none", md: "none", lg: "none", xl: "none" },
                             position: "fixed",
                             right: "2rem",
-                            position: "absolute",
                             left: "0"
 
                         }}>
