@@ -122,7 +122,6 @@ const AppLayout = () => (WrappedComponent) => (props) => {
                             <ChatList
                                 chats={data?.chats}
                                 chatId={chatId}
-                                onlineUsers={["1", "2"]}
                                 handleDeleteChat={handleDeleteChat} // Pass the handler
                                 newMessagesAlert={newMessagesAlert}
                                 onlineUsers={onlineUsers}
